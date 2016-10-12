@@ -1,1 +1,0 @@
-cookbook 'opswork-puma', git: 'https://github.com/mdere/opsworks-puma.git'

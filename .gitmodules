@@ -1,3 +1,0 @@
-[submodule "opsworks-puma"]
-	path = opsworks-puma
-	url = https://github.com/mdere/opsworks-puma.git
