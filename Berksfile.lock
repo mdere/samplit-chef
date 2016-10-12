@@ -1,4 +1,6 @@
 DEPENDENCIES
+  logrotate (~> 2.1.0)
+  monit (~> 1.0.0)
   puma (~> 0.1.7)
 
 GRAPH
