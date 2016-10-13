@@ -1,3 +1,9 @@
 [submodule "opsworks-puma"]
 	path = opsworks-puma
 	url = https://github.com/sportngin-cookbooks/opsworks-puma.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/stevendanna/logrotate.git
+[submodule "chef-monit"]
+	path = chef-monit
+	url = https://github.com/phlipper/chef-monit.git
